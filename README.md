@@ -1,19 +1,21 @@
 # Connect Four using AI
 The classic connect four game in Player vs AI mode
 
-Crafted from scratch by Khodidas-withLoveKD (https://github.com/Khodidas-withLoveKD)
+Crafted from scratch by [@Khodidas-withLoveKD](https://github.com/Khodidas-withLoveKD)
 
-Thank you Chinmaya for rigorous testing and suggestions for improving heuristics
+Thank you [@Chinmaya](https://github.com/chinmaya-kapopara) for rigorous testing and suggestions for improving heuristics
 
-Play it LIVE!! --> https://colab.research.google.com/drive/14WfWtCM9p0jJZ1BDT88q2m5BZJHJdwCC?usp=sharing
+Play it LIVE!! --> [Connect Four using AI](https://colab.research.google.com/drive/14WfWtCM9p0jJZ1BDT88q2m5BZJHJdwCC?usp=sharing)
 
 ## Gameplay
-###Start
+### Start Screen
 
-![Start Image](https://drive.google.com/file/d/1BvTGno55YanTqndnE9pfK9dQTvKrj5_q/view?usp=sharing)
+<img width="727" alt="Start" src="https://user-images.githubusercontent.com/41850210/133926774-13eae658-3f32-41cc-8b58-fcb277b54ef3.png">
 
-###Defeat
+### Defeat Screen
 
-###Victory?
+<img width="776" alt="Lost screen" src="https://user-images.githubusercontent.com/41850210/133926799-02debef3-2d09-4a2b-8d32-12059df7fe13.png">
 
-####Oops. Seems like no one has won. Why don't you try beating our AI? (Ping me on LinkedIn if you do it .... hehe)
+### Victory Screen?
+
+#### Oops. Seems like no one has ever won against our AI. Why don't you try beating it? (Ping me on LinkedIn if you do it .... hehe)
