@@ -9,6 +9,7 @@ Play it LIVE!! --> https://colab.research.google.com/drive/14WfWtCM9p0jJZ1BDT88q
 
 ## Gameplay
 Start
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Defeat
 
